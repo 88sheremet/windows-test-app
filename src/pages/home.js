@@ -1,5 +1,5 @@
 import React from "react";
-import Menu from "../component/menu";
+
 import Languageoption from "../component/language-dropdown";
 import { useTranslation } from "react-i18next";
 import i18next from "i18next";
