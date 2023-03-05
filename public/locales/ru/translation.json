@@ -20,5 +20,8 @@
   "Updateandsecurity": "Обновление и защита",
   "Updatewindows": "Обновление Windows",
   "Confidential": "Конфиденциальность",
-  "Cameramicrophone": "Камера, микрофон"
+  "Cameramicrophone": "Камера, микрофон",
+  "SelectLanguage":"Выбрать Язык",
+  "English": "Английский",
+  "Russian":"Русский"
 }
