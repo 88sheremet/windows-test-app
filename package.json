@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://88sheremet.github.io/windows-test-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
