@@ -4,9 +4,7 @@ const Languageoption = (props) => {
             <select onChange={props.onChange}>
                 <option>Select Language</option>
                 <option value={'en'}>English</option>
-                <option value={'ko'}>Korean</option>
-                <option value={'chi'}>Chinese</option>
-                <option value={'hi'}>Hindi</option>
+                <option value={'ru'}>Russian</option>
             </select>
         </div>
     )
