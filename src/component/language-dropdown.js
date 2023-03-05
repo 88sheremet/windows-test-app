@@ -7,7 +7,6 @@ const Languageoption = (props) => {
                 <option value={'ko'}>Korean</option>
                 <option value={'chi'}>Chinese</option>
                 <option value={'hi'}>Hindi</option>
-                <option value={'ru'}>Russian</option>
             </select>
         </div>
     )
